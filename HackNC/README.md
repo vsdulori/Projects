@@ -1,4 +1,4 @@
-**Project Name:** HealthHack
+**Project Name:** HealthHack<br />
 **Project Description:** The project's main focus is to help the key stakeholders in the healthcare industry automate their important monotonous manual tasks like entering and submitting patient's data for plethora of reasons
 
 **Inspiration**
