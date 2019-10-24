@@ -4,7 +4,7 @@ https://devpost.com/software/healthhack-fch4bt#updates
 <br />
 **Project Name:** HealthHack<br />
 **Project Description:** The project's main focus is to help the key stakeholders in the healthcare industry automate their important monotonous manual tasks like entering and submitting patient's data for plethora of reasons
-<br />
+<br /><br />
 **Inspiration**<br />
 One day during the summer, I visited a pharmacy for my sister's medications. We spent more than 20-25 minutes waiting for the medicines which got me to notice that the pharmacist spent most of his time typing in the details into the computer from the prescription.<br /><br />
 
