@@ -1,9 +1,0 @@
-**JAVA PROJECT** <br />
-<br />
-<br />
-**Project Name:** Log Report Manager<br />
-**Project Description:** a log report manager java application which applied concepts of different abstract data type, hashing data structures to select appropriate sorting algorithms based on the run time efficiency of the software to filter various variables of log reports
-<br /><br />
-**Learning Outcome**<br />
-•	Implemented a Java application that produces reports of user activity logs displaying filtered by and specific date and hour by day and most frequent activities
-•	Improved my ability in selection of appropriate sorting algorithm and data structure for better run time for instance learning that Linear Probing Hash Map has a better run time than Unordered Linked Map with transpose heuristics
